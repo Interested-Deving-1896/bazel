@@ -1,57 +1,75 @@
-# [Bazel](https://bazel.build)
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# bazel
 
-*{Fast, Correct} - Choose two*
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/bazel)
 
-Build and test software of any size, quickly and reliably.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-* **Speed up your builds and tests**:
-  Bazel rebuilds only what is necessary.
-  With advanced local and distributed caching, optimized dependency analysis and
-  parallel execution, you get fast and incremental builds.
+## Architecture
 
-* **One tool, multiple languages**: Build and test Java, C++, Android, iOS, Go,
-  and a wide variety of other language platforms. Bazel runs on Windows, macOS,
-  and Linux.
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-* **Scalable**: Bazel helps you scale your organization, codebase, and
-  continuous integration solution. It handles codebases of any size, in multiple
-  repositories or a huge monorepo.
+## Install
 
-* **Extensible to your needs**: Easily add support for new languages and
-  platforms with Bazel's familiar extension language. Share and re-use language
-  rules written by the growing Bazel community.
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-## Getting Started
+```bash
+git clone https://github.com/Interested-Deving-1896/bazel.git
+cd bazel
+```
 
-  * [Install Bazel](https://bazel.build/install)
-  * [Get started with Bazel](https://bazel.build/start)
-  * Follow our tutorials:
-    - [Build C++](https://bazel.build/tutorials/cpp)
-    - [Build Java](https://bazel.build/tutorials/java)
-    - [Android](https://bazel.build/tutorials/android-app)
-    - [iOS](https://github.com/bazelbuild/rules_apple/blob/master/doc/tutorials/ios-app.md)
+## Usage
 
-## Documentation
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-  * [Bazel command line](https://bazel.build/docs/user-manual)
-  * [Rule reference](https://bazel.build/reference/be/overview)
-  * [Use the query command](https://bazel.build/reference/query)
-  * [Extend Bazel](https://bazel.build/rules/concepts)
-  * [Write tests](https://bazel.build/reference/test-encyclopedia)
-  * [Roadmap](https://bazel.build/community/roadmaps)
-  * [Who is using Bazel?](https://bazel.build/community/users)
+## Configuration
 
-## Reporting a Vulnerability
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-To report a security issue, please email security@bazel.build with a description
-of the issue, the steps you took to create the issue, affected versions, and, if
-known, mitigations for the issue. Our vulnerability management team will respond
-within 3 working days of your email. If the issue is confirmed as a
-vulnerability, we will open a Security Advisory. This project follows a 90 day
-disclosure timeline.
+## CI
 
-## Contributing to Bazel
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+## Mirror chain
 
-[![Build status](https://badge.buildkite.com/1fd282f8ad98c3fb10758a821e5313576356709dd7d11e9618.svg?status=master)](https://buildkite.com/bazel/bazel-bazel)
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/bazel`](https://github.com/Interested-Deving-1896/bazel) and mirrored through:
+
+```
+Interested-Deving-1896/bazel  ──►  OpenOS-Project-OSP/bazel  ──►  OpenOS-Project-Ecosystem-OOC/bazel
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[Apache-2.0](https://github.com/Interested-Deving-1896/bazel/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
